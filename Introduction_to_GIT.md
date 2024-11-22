@@ -26,34 +26,34 @@
 [Undoing That Thing You Just Did](#undoing-your-work)
 
 ## The Case for Code Versioning
-*Versioning Saves Snapshots Of Edited Code, With The Ability To Move Forward And Backward Along A History
-  *Save Your Brilliant Idea For The Whole Team To Use
-  *Undo That Unfortunate Choice
-*The Timeline May Include Forks And Mergers Of Experiments Tried And Abandoned Or Propagated 
-  *Try Three Things, Test Them In Parallel, And Keep The One You Like Best
-  *Change Your Mind And Pick The Other Option That Was Almost As Fast, But Is More Flexible
-*A Single Developer May Benefit From Code Versioning, But A Team Of Developers That Are Jointly Modifying A Project Is More Likely To Not Succeed Without Code Versioning 
-  *That Elegant Algorithm Your Teammate Wrote Can't Be Used Until You Share Your Updated Data Prep Step
-  *The Person Testing The Code You Shared Last Week Needs A Quick Fix, But You Are Halfway Through A New, Major Update
+* Versioning Saves Snapshots Of Edited Code, With The Ability To Move Forward And Backward Along A History
+  * Save Your Brilliant Idea For The Whole Team To Use
+  * Undo That Unfortunate Choice
+* The Timeline May Include Forks And Mergers Of Experiments Tried And Abandoned Or Propagated 
+  * Try Three Things, Test Them In Parallel, And Keep The One You Like Best
+  * Change Your Mind And Pick The Other Option That Was Almost As Fast, But Is More Flexible
+* A Single Developer May Benefit From Code Versioning, But A Team Of Developers That Are Jointly Modifying A Project Is More Likely To Not Succeed Without Code Versioning 
+  * That Elegant Algorithm Your Teammate Wrote Can't Be Used Until You Share Your Updated Data Prep Step
+  * The Person Testing The Code You Shared Last Week Needs A Quick Fix, But You Are Halfway Through A New, Major Update
 
 ## Introducing GIT
-*Global Information Tracker – Aka GIT 
-*GIT Is A Utility/App/Program To Facilitate Managing Code Versions
-*First Created In 2005 As Part Of Linux Development Environment
-*Support Multiple Local Repositories That Can Be Conditionally Synchronized With Each Other
-*Each Developer Can Have Their Own Copy Of Everything, And Can Share Updates With All, Or Some Of, The Other Developers As They Are Ready For Use
+* Global Information Tracker – Aka GIT 
+* GIT Is A Utility/App/Program To Facilitate Managing Code Versions
+* First Created In 2005 As Part Of Linux Development Environment
+* Support Multiple Local Repositories That Can Be Conditionally Synchronized With Each Other
+* Each Developer Can Have Their Own Copy Of Everything, And Can Share Updates With All, Or Some Of, The Other Developers As They Are Ready For Use
 
 ## Getting GIT
-*Popular Toolset With Huge Web Presence
-  *https://github.com/git-guides/install-git
-  *https://git-scm.com/downloads
-  *https://www.uvm.edu/news/story/git-version-control-system-uvm
-    *https://gitlab.uvm.edu/
+* Popular Toolset With Huge Web Presence
+  * https://github.com/git-guides/install-git
+  * https://git-scm.com/downloads
+  * https://www.uvm.edu/news/story/git-version-control-system-uvm
+    * https://gitlab.uvm.edu/
 
 ## Basic GIT Commands
 * Git clone : To Create A Local Repository Connected To A Remote Copy 
   * Often Points To A Central Copy Referenced As The "Origin"
-  * git clone Git@gitlab.Uvm.Edu:vermont-epscor/Cyberinfrastructure.Git Cyberinf
+  * `git clone Git@gitlab.Uvm.Edu:vermont-epscor/Cyberinfrastructure.Git Cyberinf`
 * Git status : To Assess The State Of A Local Repository 
   * List Any Untracked Files Or Tracked Files With Uncommitted Changes
 * Git add : To Add A New Or Updated File To The List Of Updates To Be Tracked 
