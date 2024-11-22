@@ -254,7 +254,7 @@ https://git-scm.com/book/en/v2/images/areas.png
   * files autosaved from editors (*.bak)
   * data files
   * output files
-* .gitignore
+* Update contents of the file `.gitignore`
   * specify name patterns of files that git should ignore
       * *.pyc
       * *.[oa]
@@ -268,9 +268,15 @@ https://git-scm.com/book/en/v2/images/areas.png
   * `git push origin master`
   * `git push --dry-run`   will prepare the push, generate any messages, but make no changes
 * git pull
+  * Updates Your Local Repository Will All The Changes From The Remote Copy
+* git rebase
+	* Updates Your Local Branch With Updates From Parent Branch
+	* Conflicts Merged Locally Prior To Any Push Of Of Your New Content 
+
 
 ## Content History
 * git log
+	* Scrollable History of All Commits to a Repository
 * git tag
   * `git tag`   list of all defined tags
   * `git tag -l "partial*"`  list tags matching a wildcarded name
@@ -278,6 +284,7 @@ https://git-scm.com/book/en/v2/images/areas.png
   * `git tag -a goodtagname 9fceb02`   to tag a previous commit identifier
   * `git push origin --tags`   pushes all tags to the origin, alternatively they can be named
 * git diff
+	* Lists the Changes Between Current Committed Copy and Your Staging Area
 * git show
   * `git show thetag`   list information about a tag
 * git checkout
@@ -290,10 +297,10 @@ https://git-scm.com/book/en/v2/images/areas.png
   * `git branch`   list the current branches
   * `git branch testing` create a branch
 * git checkout
-  * `git checkout master`  selects master branch
+  * `git checkout main`  selects main branch
   * `git checkout testing` selects testing branch
   * `git checkout -b newbranch` create and checkout a new branch
-  * currently selected branch pointed to by **HEAD**
+* currently selected branch pointed to by **HEAD**
 
 ![alt text](https://git-scm.com/book/en/v2/images/advance-testing.png "Straight Branch Example")
 
