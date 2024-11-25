@@ -35,6 +35,8 @@
 * A Single Developer May Benefit From Code Versioning, But A Team Of Developers That Are Jointly Modifying A Project Is More Likely To Not Succeed Without Code Versioning 
   * That Elegant Algorithm Your Teammate Wrote Can't Be Used Until You Share Your Updated Data Prep Step
   * The Person Testing The Code You Shared Last Week Needs A Quick Fix, But You Are Halfway Through A New, Major Update
+ 
+![alt text](images/github_flow.png "Versioning Workflow")
 
 ## Introducing GIT
 * Global Information Tracker – Aka GIT 
@@ -65,6 +67,7 @@
 * Git push : Share An Updated Local Repository To Update The Central Copy
 * Git pull : Update A Local Repository With Updates From The Central Copy
 
+![alt text](images/four_stages.png "Four Stages of a Change")
 
 ## Getting a Repository
 * git clone
