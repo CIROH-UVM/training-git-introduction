@@ -58,26 +58,11 @@
 ## Resources
 
 GIT Documentation - https://git-scm.com/docs
-* https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-* https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+* [GIT, The Book](https://git-scm.com/book/en/v2)
+* [GIT Basics - Recording Changes](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
-https://dev.to/exwhyzed/how-to-git-a-complete-beginners-guide-1h85
-https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1  
-https://dev.to/milu_franz/git-explained-the-basics-igc
+[dev.to's ExWhyZed: How To Git](https://dev.to/exwhyzed/how-to-git-a-complete-beginners-guide-1h85)
+[dev.to's Milu Franz: GIT Explained - The Basics](https://dev.to/milu_franz/git-explained-the-basics-igc)
 
 Software Carpentry Version Control Lecture and Labs
-https://swcarpentry.github.io/git-novice/
-
-* Introduction to Version control
-  * https://swcarpentry.github.io/git-novice/01-basics/
-* Setting up GIT
-  * https://swcarpentry.github.io/git-novice/02-setup/
-* Collaboration using GIT
-  * https://swcarpentry.github.io/git-novice/08-collab/
-* Ignoring Files
-  * https://swcarpentry.github.io/git-novice/06-ignore/
-* Resolving Conflicts
-  * https://swcarpentry.github.io/git-novice/09-conflict/
-* History
-  * https://swcarpentry.github.io/git-novice/05-history/
-
+[Software Carpentry's Intro to GIT](https://swcarpentry.github.io/git-novice/)
