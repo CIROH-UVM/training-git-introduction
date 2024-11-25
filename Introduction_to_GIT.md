@@ -7,19 +7,7 @@
 
 [Getting a Repository](#getting-a-repository)
 
-[Making and Saving Changes](#making-and-saving-changes)
-
-[Ignoring Files](#ignoring-files)
-
-[Sharing Changes](#sharing-changes)
-
-[Content History](#content-history)
-
-[Branch Management](#branch-management)
-
-[Resolving Merge Conflicts](#resolving-conflicts)
-
-[Undoing That Thing You Just Did](#undoing-your-work)
+[Additional Resources](#resources)
 
 ## The Case for Code Versioning
 * Versioning Saves Snapshots Of Edited Code, With The Ability To Move Forward And Backward Along A History
